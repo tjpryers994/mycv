@@ -4,7 +4,7 @@ In this project I will making a CV site that showcase my skills up to now it wil
 It will consist 4 pages, a homepage, a about page, a past job page and a why hire me page.
 
 
-#UX Process:
+# UX Process:
 
 
 
@@ -16,7 +16,7 @@ Features:
 
 
 
-###Features left to implement:
+### Features left to implement:
 
 
 
