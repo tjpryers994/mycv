@@ -6,8 +6,12 @@ It will consist 4 pages, a homepage, a about page, a past job page and a why hir
 
 # UX Process:
 
+Who I had in mind when making this site, is potential employers where I can showcase my skills with a site that is easy to navigate. It will be a mobile friendly site thats responsive. 
 
-
+* As a employer I want to look at this site and navigate to the important sections of the cv site.
+* As a user looking to calaborate with site owner, I can look at the site and see the skills and make a decision on if i would work with site owner
+* As a employer I can see if it is easy to find a pdf/printable format.
+* As a user looking for inspiration the simplistic design can help provide me with inspiration
 
 
 Features:
