@@ -13,7 +13,7 @@ Who I had in mind when making this site, is potential employers where I can show
 * As a employer I can see if it is easy to find a pdf/printable format.
 * As a user looking for inspiration the simplistic design can help provide me with inspiration
 
-! [alt] (wireframe/Wframes.pdf)
+[Wireframe] (https://https://github.com/tjpryers994/mycv/tree/master/wireframe)] (wireframe/Wframes.pdf)
 
 
 
