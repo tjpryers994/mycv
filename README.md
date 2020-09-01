@@ -38,9 +38,9 @@ There will be 4 responsive pages that have each got their own goal mainly provid
 
 
 ## Testing
-
-
-
+I encountered a few issues whilst testing:
+* My h1 header was scrolling across the page so I set the position to fixed
+* I had a long arduous task getting the background to show properly I fixed this by watching a youtube video about it link is in the Acknowledgement section below
 
 ## Deployment
 
@@ -52,3 +52,6 @@ There will be 4 responsive pages that have each got their own goal mainly provid
 ## Content
 ## Media
 ## Acknowledgements
+Drew Ryan: Found his video on Youtube, Helped me with getting my background showing properly and how to center my heading and paragraph in middle of page
+links here:https://www.youtube.com/watch?v=Y5SHm53WFEk
+bongkarn thanyakij: made the background I've used link here : Photo by bongkarn thanyakij from Pexels
