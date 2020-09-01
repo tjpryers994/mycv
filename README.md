@@ -34,7 +34,7 @@ There will be 4 responsive pages that have each got their own goal mainly provid
 * HTML
 * CSS
 * Bootstrap
-
+* google fonts
 
 
 ## Testing
@@ -54,4 +54,4 @@ I encountered a few issues whilst testing:
 ## Acknowledgements
 Drew Ryan: Found his video on Youtube, Helped me with getting my background showing properly and how to center my heading and paragraph in middle of page
 links here:https://www.youtube.com/watch?v=Y5SHm53WFEk
-bongkarn thanyakij: made the background I've used link here : Photo by bongkarn thanyakij from Pexels
+Photo by bongkarn thanyakij from Pexels: this is what I used for my background
