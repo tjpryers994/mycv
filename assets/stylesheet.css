@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+html, body {
+    margin: 0;
+    padding:0;
+    height: 100%;
+    width: 100%
+}
+.intro{
+    height: 100%;
+    width: 100%;
+    margin: auto;
+    background-image: url(../images/bg5.jpg);
+    background-size: cover;
+    display: table;
+    top: 0;
+}
+.intro .inner{
+    display: table-cell;
+    vertical-align: middle;
+    width: 100%;
+    max-width: none;
+}
+.content {
+    max-width: 500px;
+    margin: 0 auto;
+    text-align: center;
+}
