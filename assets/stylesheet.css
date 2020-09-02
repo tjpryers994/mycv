@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500&display=swap');
 
 html, body {
     margin: 0;
@@ -25,4 +25,34 @@ html, body {
     max-width: 500px;
     margin: 0 auto;
     text-align: center;
+}
+.content h1 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    color: #6a5c5c;
+    font-size: 60px;
+}
+.content p {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    color: #3a3732;
+    font-size: 32px;
+}
+/*-----Navbar-----*/
+
+.navstyle .nav-item .nav-link {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    font-size: 18px;
+    color: #3A3732;
+}
+
+/*------Sociallinks----*/
+.img-container{
+    text-align: center;
+}
+.icons{
+    font-size: 46px;
+    color: black;
+    padding: 25px
 }
