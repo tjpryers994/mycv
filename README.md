@@ -1,4 +1,5 @@
 # My CV Site
+Here is Link: https://tjpryers994.github.io/mycv/
 
 In this project I will making a CV site that showcase my skills up to now it will be a constant WIP. As I learn more skills I will add to the site.
 It will consist 4 pages, a homepage, a about page, a past job page and a why hire me page.
